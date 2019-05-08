@@ -23,6 +23,25 @@
   color: #61dafb;
 }
 
+
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+.body{
+  padding-top: 10px;
+}
+
+.card{
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
